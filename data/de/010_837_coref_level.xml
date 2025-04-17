@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_927" span="word_394" coref_class="set_6"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="dative"  type="anaphoric" />
+<markable id="markable_822" span="word_349..word_350" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2789" span="word_1022" coref_class="set_30"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2788" span="word_1000" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_2787" span="word_696" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_2786" span="word_691" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_2785" span="word_621" coref_class="set_29"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_2784" span="word_387" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_2783" span="word_353" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_1906" span="word_795" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2782" span="word_29..word_32" coref_class="set_28"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2041" span="word_849" coref_class="empty"  audience="exclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_1907" span="word_798..word_799" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2781" span="word_133" coref_class="set_27"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2780" span="word_128" coref_class="set_27"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2042" span="word_851..word_852" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_60" span="word_21..word_22" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2043" span="word_854..word_855" coref_class="set_19"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_819" span="word_335..word_340" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1920" span="word_803..word_804" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1518" span="word_630" coref_class="set_11"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_816" span="word_331" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_818" span="word_334" coref_class="set_5"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1519" span="word_634" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_817" span="word_333" coref_class="set_5"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1520" span="word_638..word_639" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_111" span="word_27" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2058" span="word_859" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_1521" span="word_641..word_642" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_113" span="word_34..word_37" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_112" span="word_29..word_46" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_115" span="word_42..word_43" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_114" span="word_41" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_820" span="word_344..word_345" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_821" span="word_347..word_350" coref_class="set_6"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2791" span="word_1131" coref_class="set_31"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_2790" span="word_1129" coref_class="set_31"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2792" span="word_1152" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_1260" span="word_528..word_529" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1261" span="word_532..word_534" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_44" span="word_12..word_17" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_45" span="word_16..word_17" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2169" span="word_895" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_2022" span="word_844..word_846" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2020" span="word_836" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_2021" span="word_842..word_843" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_41" span="word_2..word_3" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_42" span="word_7" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_43" span="word_10..word_11" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2379" span="word_983..word_991" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2378" span="word_980..word_981" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2530" span="word_1055" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2531" span="word_1056..word_1057" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1669" span="word_699" coref_class="set_34"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1259" span="word_526..word_529" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1258" span="word_524" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2528" span="word_1048..word_1052" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2170" span="word_898..word_899" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2527" span="word_1046" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2171" span="word_901" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="personal"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2172" span="word_904..word_909" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2529" span="word_1051..word_1052" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2173" span="word_907" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1670" span="word_700..word_703" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1671" span="word_702..word_703" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2545" span="word_1065" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2739" span="word_1127..word_1128" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2544" span="word_1062" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_2381" span="word_993..word_995" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2738" span="word_1124..word_1128" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2380" span="word_991" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2743" span="word_1143..word_1147" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2741" span="word_1135" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="personal"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2742" span="word_1137..word_1139" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2740" span="word_1132" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_1693" span="word_708..word_709" coref_class="set_15"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1692" span="word_706" coref_class="set_34"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_179" span="word_59" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_2110" span="word_876..word_879" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1695" span="word_713" coref_class="set_15"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_1694" span="word_711" coref_class="set_34"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1129" span="word_475" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_908" span="word_379" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2269" span="word_933" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2267" span="word_926..word_927" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2669" span="word_1100..word_1101" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2668" span="word_1100" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2667" span="word_1099" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2666" span="word_1093..word_1094" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2665" span="word_1089..word_1091" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2664" span="word_1090" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2663" span="word_1088" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2662" span="word_1084" coref_class="set_32"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_180" span="word_65" coref_class="set_25"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_181" span="word_71" coref_class="set_25"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_182" span="word_72" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2762" span="word_1154..word_1156" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2670" span="word_1106" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_1116" span="word_468..word_470" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1115" span="word_466" coref_class="set_9"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2672" span="word_1109" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2671" span="word_1107" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1112" span="word_458" coref_class="set_9"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1114" span="word_462..word_463" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1113" span="word_459..word_460" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2674" span="word_1116" coref_class="set_24"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1294" span="word_538..word_539" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2673" span="word_1113..word_1119" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2270" span="word_939" coref_class="set_21"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1295" span="word_541..word_542" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2271" span="word_943" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1296" span="word_544" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2675" span="word_1118" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="personal"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2272" span="word_945" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2134" span="word_891..word_893" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2771" span="word_1159..word_1160" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2772" span="word_609..word_611" coref_class="set_11"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2773" span="word_716..word_717" coref_class="set_13"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2774" span="word_739" coref_class="set_14"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="possessive"  type="anaphoric" />
+<markable id="markable_2775" span="word_734..word_737" coref_class="set_14"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2776" span="word_758" coref_class="set_17"  mmax_level="coref"  mention="pronoun"  type="none" />
+<markable id="markable_132" span="word_49..word_50" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2777" span="word_819" coref_class="set_18"  mmax_level="coref"  mention="pronoun"  type="none" />
+<markable id="markable_2778" span="word_1113..word_1114" coref_class="set_24"  mmax_level="coref"  nptype="np"  mention="np" />
+<markable id="markable_2133" span="word_885" coref_class="set_19"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2779" span="word_84" coref_class="set_25"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_1596" span="word_672" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_449" span="word_188" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_448" span="word_184..word_190" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1010" span="word_422" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_1011" span="word_426..word_428" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1449" span="word_614" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2475" span="word_1025" coref_class="set_30"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2476" span="word_1036..word_1037" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_383" span="word_159..word_160" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_244" span="word_98" coref_class="set_26"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_382" span="word_156" coref_class="set_0"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_381" span="word_153..word_155" coref_class="set_0"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1988" span="word_829..word_830" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1989" span="word_832" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_724" span="word_287" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_725" span="word_292" coref_class="set_3"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_726" span="word_294" coref_class="set_3"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_727" span="word_295..word_300" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_728" span="word_307..word_308" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_729" span="word_310..word_311" coref_class="set_4"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_585" span="word_246..word_247" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_583" span="word_245" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_584" span="word_246" coref_class="set_0"  mmax_level="coref"  agreement="ihr(e/m/r/n/s) (3rd pers.pl.possessive)"  split="simple antecedent"  mention="pronoun"  case="possessive"  type="anaphoric" />
+<markable id="markable_446" span="word_179" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_447" span="word_183" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1855" span="word_776..word_777" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_444" span="word_172" coref_class="set_28"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1854" span="word_775" coref_class="empty"  audience="exclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_445" span="word_176" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_581" span="word_232..word_233" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_442" span="word_164" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_582" span="word_236..word_237" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_443" span="word_168" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_580" span="word_229" coref_class="set_1"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_882" span="word_366..word_368" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_883" span="word_372..word_376" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_880" span="word_360" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_881" span="word_363" coref_class="set_6"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1472" span="word_618..word_619" coref_class="set_29"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1987" span="word_828" coref_class="set_18"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_576" span="word_216" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1986" span="word_820..word_823" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_577" span="word_217..word_219" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_578" span="word_224..word_225" coref_class="set_1"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_579" span="word_227" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2491" span="word_1040" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_572" span="word_203" coref_class="set_0"  mmax_level="coref"  agreement="ihr(e/m/r/n/s) (3rd pers.pl.possessive)"  split="simple antecedent"  mention="pronoun"  case="possessive"  type="anaphoric" />
+<markable id="markable_2492" span="word_1042..word_1043" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2411" span="word_1007..word_1010" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_573" span="word_203..word_204" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2410" span="word_1004..word_1005" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_574" span="word_206..word_210" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2208" span="word_921..word_922" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_575" span="word_208..word_210" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_879" span="word_359" coref_class="empty"  audience="all-inclusive wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="personal"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_570" span="word_199" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_571" span="word_201..word_204" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1887" span="word_790..word_791" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1886" span="word_788..word_791" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1885" span="word_783..word_791" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1584" span="word_664..word_665" coref_class="set_33"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1585" span="word_668" coref_class="set_33"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2206" span="word_911" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2207" span="word_919" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1583" span="word_660..word_662" coref_class="set_34"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2585" span="word_1077" coref_class="set_32"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1048" span="word_434" coref_class="set_9"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1049" span="word_438" coref_class="empty"  mmax_level="coref"  mention="none" />
+<markable id="markable_2582" span="word_1068..word_1070" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_466" span="word_192" coref_class="set_0"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2584" span="word_1076" coref_class="empty"  mmax_level="coref"  mention="none" />
+<markable id="markable_467" span="word_196" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2083" span="word_868..word_870" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1415" span="word_581" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_352" span="word_148" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2082" span="word_866..word_870" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1414" span="word_580" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1413" span="word_573..word_577" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1766" span="word_743" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1765" span="word_734..word_735" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1552" span="word_655" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_1816" span="word_761..word_762" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1815" span="word_760" coref_class="set_17"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1814" span="word_756" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_1813" span="word_751" coref_class="set_16"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_350" span="word_139..word_140" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1812" span="word_747..word_748" coref_class="set_16"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_666" span="word_272..word_275" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_667" span="word_274..word_275" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_664" span="word_260..word_262" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_665" span="word_265..word_267" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2334" span="word_976" coref_class="set_22"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="possessive"  type="anaphoric" />
+<markable id="markable_2335" span="word_976..word_978" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2333" span="word_973..word_974" coref_class="set_22"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_762" span="word_313" coref_class="set_4"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_349" span="word_137..word_140" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_765" span="word_325..word_326" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1050" span="word_439..word_441" coref_class="set_8"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_763" span="word_316" coref_class="set_4"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_2081" span="word_865" coref_class="set_19"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_764" span="word_319" coref_class="set_4"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_343" span="word_114" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_344" span="word_116" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_971" span="word_405" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_970" span="word_402..word_403" coref_class="set_7"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_342" span="word_107..word_110" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1949" span="word_811..word_812" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_347" span="word_130..word_131" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_972" span="word_408..word_410" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_348" span="word_134..word_140" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_345" span="word_122..word_124" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_346" span="word_123..word_124" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_669" span="word_282" coref_class="set_2"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_668" span="word_279..word_281" coref_class="set_2"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1811" span="word_746" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_1225" span="word_498" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1226" span="word_501..word_522" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1227" span="word_506..word_518" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1228" span="word_509..word_518" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1065" span="word_448" coref_class="set_8"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_968" span="word_397" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1416" span="word_580..word_589" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_969" span="word_401..word_403" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1417" span="word_585..word_586" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1222" span="word_486" coref_class="set_10"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1418" span="word_589" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1223" span="word_492" coref_class="set_10"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1419" span="word_597" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1224" span="word_494..word_495" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1229" span="word_514" coref_class="set_10"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1740" span="word_729..word_730" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1536" span="word_646" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2308" span="word_964..word_965" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1640" span="word_689" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2307" span="word_963" coref_class="set_21"  mmax_level="coref"  agreement="ihnen (pl.)"  split="simple antecedent"  mention="pronoun"  case="dative"  type="anaphoric" />
+<markable id="markable_229" span="word_94..word_95" coref_class="set_26"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_228" span="word_92" coref_class="set_25"  mmax_level="coref"  mention="pronoun"  type="event" />
+<markable id="markable_1230" span="word_516..word_517" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1231" span="word_519..word_520" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1739" span="word_727..word_730" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1737" span="word_719" coref_class="set_13"  mmax_level="coref"  agreement="none"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1738" span="word_723..word_724" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1736" span="word_716..word_725" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_991" span="word_420" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_990" span="word_417..word_418" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1448" span="word_609" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_226" span="word_85..word_87" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1625" span="word_676" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_1346" span="word_570" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1626" span="word_678" coref_class="empty"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="reflexive"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_2440" span="word_1015" coref_class="set_23"  audience="deictic (sie, ihnen, ihr/e/er/es/em/en, du, dich, dir, dein/e/er/es/em/en)"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="addressee reference" />
+<markable id="markable_1627" span="word_683..word_684" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2441" span="word_1017" coref_class="set_23"  mmax_level="coref"  agreement="die (pl.)"  split="simple antecedent"  mention="pronoun"  case="accusative"  type="anaphoric" />
+<markable id="markable_1537" span="word_650" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1343" span="word_553..word_559" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2305" span="word_956..word_957" coref_class="set_20"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1832" span="word_768..word_769" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_1344" span="word_557" coref_class="empty"  mmax_level="coref"  nptype="np"  agreement="none"  mention="np"  case="none"  type="none"  sub_apposition="none" />
+<markable id="markable_2306" span="word_961" coref_class="set_20"  mmax_level="coref"  agreement="sie (sg.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+<markable id="markable_1345" span="word_565" coref_class="empty"  audience="co-present wir/uns/unser"  mmax_level="coref"  personal_or_reflexive="none"  mention="pronoun"  type="speaker reference" />
+<markable id="markable_2442" span="word_1018" coref_class="empty"  mmax_level="coref"  mention="pronoun"  type="pleonastic" />
+<markable id="markable_989" span="word_415" coref_class="set_7"  mmax_level="coref"  agreement="sie (pl.)"  split="simple antecedent"  mention="pronoun"  case="nominative"  type="anaphoric" />
+</markables>
