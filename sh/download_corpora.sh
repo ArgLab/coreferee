@@ -22,7 +22,7 @@ pushd ${TEMP_DIR}
 
 mkdir -p "${DATA_DIR}/en"
 mkdir -p "${DATA_DIR}/de"
-wget -O ParCor_v1.0.tar.gz https://opus.nlpl.eu/download.php?f=ParCor/ParCor_v1.0.tar.gz 
+wget -O ParCor_v1.0.tar.gz https://opus.nlpl.eu/legacy/download.php?f=ParCor/ParCor_v1.0.tar.gz
 tar -xvzf ParCor_v1.0.tar.gz
 find "${TEMP_DIR}/ParCor" -type f | grep "English/Annotator1" | grep ".xml" | xargs -I{} mv {} "${DATA_DIR}/en"
 find "${TEMP_DIR}/ParCor" -type f | grep "German/Annotator1" | grep ".xml" | xargs -I{} mv {} "${DATA_DIR}/de"
